@@ -1,4 +1,4 @@
-# Sprintas2
+# Sprintas3
 
 To start the program you have to run /src/Sprintukas2.java
 
